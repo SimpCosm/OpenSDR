@@ -125,11 +125,11 @@ EPC主要负责UE的控制和承载建立，主要分为三部分：
 
 ### 包数据汇聚层(PDCP)
 
-![PDCP层架构图](/home/houmin/Documents/503/OpenSDR/docs/img/pdcp-arch.png)
+![PDCP层架构图](./img/pdcp-arch.png)
 
 ### 虚线链路层(RLC)
 
-![RLC层](/home/houmin/Documents/503/OpenSDR/docs/img/rlc.png)
+![RLC层](./img/rlc.png)
 
 ### 媒体接入层(MAC)
 
